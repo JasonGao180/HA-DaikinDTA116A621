@@ -1,0 +1,11 @@
+{
+  "domain": "daikin_dta116a62",
+  "name": "Daikin DTA116A62 Adapter",
+  "documentation": "",
+  "requirements": ["pydta116a621==0.3.0"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@jasongao180"]
+}
